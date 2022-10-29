@@ -49,6 +49,13 @@ li a {
     flex-direction: column;
 }
 
+#h2 {
+    font-size: 50px;
+}
+.tieude p {
+    font-size: 25px;
+}
+
 .mon {
     display: flex;
     flex-direction: row;
@@ -59,9 +66,15 @@ li a {
     margin: auto;
     gap: 70px;
 }
+
 .mon img {
     width: 230px;
     height: 300px;
+}
+
+.mon a {
+    color: blue;
+    text-decoration: none;
 }
 .mon1 {
     width: 230px;
