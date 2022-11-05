@@ -79,3 +79,27 @@ li a {
 .mon1 {
     width: 230px;
 }
+
+/*-----------------------------------*/
+.mon2 {
+    width: 800px;
+    margin-left: 100px;
+}
+
+img {
+    width: 800px;
+    height: auto;
+}
+
+#bla {
+    color: green;
+    font-size: larger;
+}
+
+#blo {
+    font-size: large;
+}
+
+#ble {
+    font-size: larger;
+}
